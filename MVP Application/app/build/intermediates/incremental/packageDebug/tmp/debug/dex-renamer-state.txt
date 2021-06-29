@@ -1,0 +1,4 @@
+#Mon Jun 28 23:09:46 EDT 2021
+base.0=C\:\\Users\\Stian\\Android Studio\\costcalculator\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
